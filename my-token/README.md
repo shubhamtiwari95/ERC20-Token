@@ -1,4 +1,4 @@
-#About Project
+# About Project
 
 This project aims to create an ERC20 Token using Openzeppelin contracts, compile and deploy using Hardhat and deploy on Goerli Test Network using Infura.
 
